@@ -1,0 +1,152 @@
+/* ÉCRAN PETIT : inférieur à 800 */
+
+@media screen and (max-width: 800px) {
+    
+    /* ----- GENERAL ----- */
+    
+    body, html {
+        height: 110%;
+    }
+    
+    /* ----- HEADER ----- */
+    
+    #nav {
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        visibility: hidden;
+        flex-direction: column;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        padding-top: 100px;
+    }
+    
+    #nav a {
+        color: white;
+        opacity: 0;
+        text-decoration: none;
+        margin-left: 30px;
+        height: 12vh;
+        font-size: 30px;
+    }
+    
+    #header_menu {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+    
+    #navbar {
+        opacity: 0;
+        background-color: black;
+    }
+    
+    #social_media_nav {
+        display: none;
+    }
+    
+    #logo {
+        margin-left: 25px;
+    }
+
+    .navbar {
+        opacity: 1 !important;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .show_nav, .show_nav a {
+        opacity: 1 !important;
+        transition: opacity 1s;
+        visibility: visible !important;
+    }
+    
+    #mobile_button i {
+        pointer-events: none;
+        font-size: 32px;
+    }
+    
+    #mobile_button {
+        display: block!important;
+        z-index: 9;
+        margin-right: 15px;
+        margin-top: 10px;
+        align-self: flex-start;
+    }
+    #mobile-button:hover {background-color: grey}
+    
+    #lien_intro {transition-delay: 400ms}
+    #lien_perso {transition-delay: 500ms}
+    #lien_boss {transition-delay: 600ms}
+    #lien_objets {transition-delay: 700ms}
+    #lien_sorts {transition-delay: 800ms}
+    #lien_contact {transition-delay: 900ms}
+    
+    /* ----- CONTENT ----- */
+    
+    #nous {
+        flex-direction: column;
+    }
+    
+    #nous div {
+        width: 100%;
+        padding: inherit;
+    }
+    
+    .creators h1, #nous h1 {font-size: 1.2em}
+    
+    #index_titre {
+        font-size: 26px;
+        text-align: center;
+    }
+    #bouton_jouer {font-size: 40px}
+    
+    .Edouard {margin-top: 30px;}
+    
+    main {
+        display: flex;
+        flex-direction: column;
+        margin: 7%;
+    }
+    
+    #class_name {font-size: 1.15em}
+    #class_list {
+        flex-wrap: nowrap;
+        width: 80vw;
+        overflow: scroll;
+        justify-content: start;
+    }
+    #class_info p {
+        font-size: 12px;
+    }
+    #class_stat {display: none !important}
+    #class_content {margin-bottom: 10%}
+    #class_portrait {border-radius: inherit}
+    
+    #img_content {
+        height: auto;
+    }
+    
+    .show_body {
+        overflow: hidden;
+    }
+    
+    .link_class {border-radius: inherit}
+    
+    #stat {display: none}
+    
+    /* ----- CONTENT ----- */
+    
+    #footer_left p {
+        display: none;
+    }
+    
+    /* ----- CONTENT ----- */
+    
+    #error .center {
+        flex-direction: column;
+    }
+}

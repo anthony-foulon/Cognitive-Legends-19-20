@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!-- infos importantes -->
+    <meta charset="utf-8"/>
+    <meta name="author" content="3 beaux garcons"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/png" href="utils/img/favicon.png">
+
+    <title>Cognitive Legends</title>
+
+    <!-- fichiers CSS -->
+    <link rel="stylesheet" href="utils/css/style.css"/>
+    <link rel="stylesheet" href="utils/css/device_mobile.css"/>
+    <link rel="stylesheet" href="utils/css/device_large.css"/> 
+    <link rel="stylesheet" href="utils/css/temporaire.css"/> <!-- TO REMOVE -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <!-- script de chargement du Header et Footer -->
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script>
+        $(function(){
+            $("header").load("template/header.html"); 
+            $("footer").load("template/footer.html"); 
+        });
+        
+        function blink_text() {
+            $('.blink').fadeOut(500);
+            $('.blink').fadeIn(500);
+        }
+        setInterval(blink_text, 1000);
+    </script>
+</head>
+
+<body>
+<div id="wrapper"> <!-- debut du wrapper -->
+    <header></header>
+    <main id="error">
+        <div class="center">
+            <div>
+                <span>ERREUR</span>
+                <span id="e404">404</span>
+            </div>
+            <div class="blink">
+                <span>not</span>
+                <span>found</span>
+            </div>
+        </div>
+        <label class="home_button">
+            <a href="index.html">Home</a>
+        </label>
+    </main>
+    <footer></footer>
+</div> <!-- fin du wrapper -->
+    
+<!-- liste des scripts -->
+<script src="utils/js/script.js"></script>
+<script src="utils/js/temporaire.js"></script> <!-- TO REMOVE -->
+</body>
+</html>

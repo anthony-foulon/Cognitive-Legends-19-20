@@ -1,0 +1,190 @@
+{
+    "heros": {
+        "freddy": {
+            "nom": "Eddy",
+            "description": "Eddy vit au sein d'une famille hostile a son regard et il est la risee de ses camarades de classe. Depuis le college, Eddy presente des signes de sadisme. Il s'adonne aux meurtres de petits animaux. Il apprivoise la souffrance et ses pulsions meurtrieres en investissant dans des armes a feu de plus en plus imposantes. Mais son arme de predilection reste ses griffes avec lesquelles il aime s’atteler a la decoupe du bois.",
+            "force": 8,
+            "intelligence": 3,
+            "agilite": 6,
+            "bagou": 0
+        },
+        "angelo": {
+            "nom": "Andrelo",
+            "description": "a l’origine, Andrelo etait une tortue sujet d’experiences dans un laboratoire de cosmetique. Mais suite a une reaction allergique ayant mal tournee, il fut expose a un mutagene qui le transforma en une creature anthropomorphique de taille humaine. Depuis, il s’habille et se comporte comme un vrai etre humain et consacre sa vie a la recherche en sciences cognitives quite a harceler ses profs quand il a besoin de quelque chose.",
+            "force": 7,
+            "intelligence": 5,
+            "agilite": 10,
+            "bagou": 8
+        },
+        "fry": {
+            "nom": "Bry",
+            "description": "Aux premiers abords, beaucoup s’identifie a Bry. En effet, il est le parfait type du loser attachant : pitoyable mais sensible. Malgre sa faible capacite a reflechir, Bry est attentionne bien qu’il soit la cause des problemes de ses amis. Un peu faineant, il aime passer des heures devant la tele et festoyer dans les bars au detriment de ses etudes.",
+            "force": 1,
+            "intelligence": 0,
+            "agilite": 1,
+            "bagou": 8
+        },
+        "ironman": {
+            "nom": "Ill-e Girl",
+            "description": "Ill-e Girl est une femme normale qui revet une armure de hautes technologies concue a l’aide des dernieres avancees en la matiere. Elle permet ainsi de voler a des vitesses supersoniques, lui confere une force et une resistance surhumaine et est equipee de multiples armes, capteurs et systemes electroniques. Quel interet me diriez-vous ? Ill-e Girl est hypocondriaque a l’extreme et ne souhaite absolument pas etre touchee ou toucher quelque chose pour eviter la transmission de microbes ou bacteries au point d’etre parfois amenee a utiliser son armure offensivement contre une personne un peu trop proche.",
+            "force": 10,
+            "intelligence": 7,
+            "agilite": 10,
+            "bagou": 2
+        },
+        "mrbeen": {
+            "nom": "Mr Pine",
+            "description": "Mr Pine est un comedien muet de renomme mondiale qui lui a valu le surnom \"Dieu de l’humour\". Mais sa vie n’est qu’un enchainement de pur hasard. En effet, Mr Pine est atteint d’une terrible benediction qui lui permet de faire eclater de rire n’importe qui le voyant. Que ce soit au travail, chez lui, dans sa voiture, sous la douche, aux toilettes, toute personne posant son regard sur lui se met a rire irremediablement. Cela lui a valu de nombreuses depressions au cours desquelles il trouvait du reconfort aupres de son nounours Jacky qui est apparemment son seul ami.",
+            "force": 2,
+            "intelligence": 2,
+            "agilite": 2,
+            "bagou": 999
+        },
+        "jacksparrow": {
+            "nom": "Jack Pedro",
+            "description": "Voulant fuir sa vie qu’il trouve morne et insipide, Jack reve d’une vie de debauche et de liberte. Depuis il s’est autoproclame seigneur pirate des MIASHS et il agit comme un vrai pirate : il s’accapare les rendus de ses camarades, boit du rhum et tente de seduire toutes les femmes mignonnes (professeurs ou eleves) qu’il croise. Enfin, son talent inne pour la negociation et la trahison lui permettent les faveurs de ses professeurs sans besoin de reviser.",
+            "force": 3,
+            "intelligence": 5,
+            "agilite": 8,
+            "bagou": 8
+        },
+        "laracroft": {
+            "nom": "Charla Tane",
+            "description": "Charla est une archeologue fascinee par les civilisations anciennes et avide de decouvertes. Elle voyage a travers le monde a la recherche d’objets rares et de mysterieux artefacts qui l’amenent a devoir affronter diverses organisations criminelles tentant de detourner ceux-ci a des fins de domination mondiale. Le seul probleme, c’est que Lara est mythomane. Elle n’a jamais quitte sa maison, a peur de l’inconnu, deteste se battre et n’a aucune connaissance en histoire et archeologie.",
+            "force": 4,
+            "intelligence": 8,
+            "agilite": 5,
+            "bagou": "sexy"
+        },
+        "winnie": {
+            "nom": "Mini glouton",
+            "description": "N'ayant aucun talent et qualifie souvent de nain sans jugeote, Winnie n’est pas tres intelligent. Sa betise est cependant compense par son grand coeur qu’il souhaite mettre au profit des enfants pour panser leurs plaies et raviver leur sourire. C’est ainsi qu’il a eu l’idee d’enfiler un costume d’ours en peluche, mascotte prefere des petits. Malheureusement, les enfants de cette generation ont rapidement fait de Winnie leur souffre douleur et se servent de lui comme d’un punching ball. Depuis, il est traumatise et ne supporte plus la vue d’un enfant au point de faire des crises de panique et des cauchemars.",
+            "force": 0,
+            "intelligence": 0,
+            "agilite": 0,
+            "bagou": 0
+        },
+        "popeye": {
+            "nom": "Popeye",
+            "description": "Popeye est un marin bourru et religieux qui reagit violemment si son Dieu est provoque. Il fait alors etalage de sa force et de sa resistance physique qu’il obtient grace a l’absorption de plantes medicinales benites. Peu eduque, son langage melange temps, personnes et modes verbaux en maltraitant la syntaxe et le vocabulaire au point qu’il finit par s’enerver et insulter ses camarades face a leur incomprehension.",
+            "force": 10,
+            "intelligence": 0,
+            "agilite": 4,
+            "bagou": 1
+        },
+        "marilynn": {
+            "nom": "Marilynn Monroe",
+            "description": "Ancienne star tele belge d’une gloire passee, Marilynn est completement tombe dans l’oubli le plus totale. Accablee par la realite, elle renie la verite et continue de regarder inlassablement ses performances a la tele et de se prendre pour une star. Malheureusement, sa vie de debauche l'a pousse a s’exiler de Belgique. Elle decide toutefois de renverser la tendance et de commencer une nouvelle vie en France en reprenant ses etudes pour retrouver sa gloire passee. Pour se faire, elle est prete a tout quitte a vendre son corps, tourner des films pour adulte et coucher avec n’importe pouvant la faire montrer les echelons.",
+            "force": 1,
+            "intelligence": 1,
+            "agilite": 1,
+            "bagou": "sexy"
+        },
+        "dictateur": {
+            "nom": "Le Dictateur",
+            "description": "Ayant succede a son pere (dictateur lui aussi) a la tete de la Republique de SCE alors qu’il venait de feter ses sept ans, il regne en maitre grace a sa taille. Fantasque, autoritaire, misogyne, anti-occidentale et anti- blancs, il se fait appeler \"Guide supreme\", \"Leader Triomphant\" ou \"L’oppresseur bien-aime\". Sa megalomanie n’a pas de limite et, a l’instar de grands cogniticiens, il n’hesite par a changer les noms anatomiques dans la recherche pour rappeler au monde entier la domination du peuple noir.",
+            "force": 10,
+            "intelligence": 10,
+            "agilite": 10,
+            "bagou": 10
+        },
+        "kratos": {
+            "nom": "Kratos",
+            "description": "Dans la mythologie des MIASHS, Kratos est une divinite personnifiant la puissance, le pouvoir, la vigueur ou la solidite. Fils du Titan Psycho et de Logie, il se comporte comme un veritable anti-cognitiviste : torture, hante par la filiere SCE et par les souvenirs de son anciens parcours, mort de ses mains, il se montre alors cruel et sans pitie envers quiconque lui rappelle que le parcours SCE est au dessus du parcours pyscho et il agit souvent dans son propre interet aux depens de ses camarades de classe. Il laisse parfois entrevoir une parcelle d’humanite lorsqu’il est invite a aller manger dehors.",
+            "force": 10,
+            "intelligence": 3,
+            "agilite": 10,
+            "bagou": "armes"
+        }
+    },
+    
+    "mechants": {
+        "cesar": {
+            "nom": "Webinator",
+            "description": "Webinator est le prophete et le guide qui conduit le peuple MIASHS hors du Master, pays ou il vivait dans la servitude et le chomage, apres que les dix greves infligees au Master ont permis la liberation du peuple SCE. Fils du WEB, Webinator est le premier personnage a etre nomme \"homme de Dieu\" dans la bible W3C. Depuis, il tente de rallier a lui tous ses fideles et de convertir les derniers dissidents. Il ne jure que par le W3C Validator et sa parole fait office de loi.",
+            "difficulte": 20,
+            "attaque": 20,
+            "defense": 20
+        },
+        "joker": {
+            "nom": "In English Pls !",
+            "description": "Issu d’une famille d’historien, il a decouvert dans son enfance d’anciens ouvrages de ses parents rapportant les techniques inventees par les anglais pour torturer et soumettre leur ennemis. emerveille par ce qu’il y appris, il se consacre depuis ce jour corps et ame a l’apprentissage de l’anglais et a son enseignement. Mais pour lui, pas question d’etre pedagogique, un vrai professeur d’anglais se doit d’exploiter sa classe en l’honneur des anciens conquerants anglais ayant reduit en esclavage de nombreuses regions du monde.",
+            "difficulte": 1,
+            "attaque": 1,
+            "defense": 1
+        },
+        "megamind": {
+            "nom": "Linearibus Procedere",
+            "description": "Originaire d’Afrique, Linearibus est venu en France parfaire ses connaissances en mathematiques. Alors qu’il n’avait aucun domaine de predilection, il s’est decouvert une veritable passion pour la regression lineaire. Passion qui s’est rapidement transforme en drogue. Depuis, il est oblige d’effectuer de la regression au moins 52 fois par jour et tente de demontrer au monde entier que la reponse universelle est « la regression lineaire ».",
+            "difficulte": 10,
+            "attaque": 9.5,
+            "defense": 5
+        },
+        "lilou": {
+            "nom": "NLTKel",
+            "description": "NLTKel a toujours eu des problemes d’expressions depuis son enfance, elle a du mal a trouver ses mots et bafouille beaucoup. C’est pourquoi, elle s’est specialisee dans l’apprentissage automatique du langage afin de creer l’algorithme ultime qui remplacerait sa voix et lui eviterait des moqueries. Cependant, n’ayant aucun talent dans la programmation, elle se tourne vers le metier d’enseignant afin de trouver l’elu parmi les eleves qui saura realiser son reve a sa place. Et pour cela, elle n’hesite pas a complexifier son cours au maximum pour faire ressortir le joyau qui saura repondre a ses attentes.",
+            "difficulte": 5,
+            "attaque": 4,
+            "defense": 8
+        },
+        "minion": {
+            "nom": "Gimli",
+            "description": "...",
+            "difficulte": 2,
+            "attaque": 5,
+            "defense": 3
+        }
+    }, 
+    
+    "objets": {
+        "antiseche": {
+            "nom": "Antiseche",
+            "rarete": "Commun",
+            "description": "Permet d’obtenir une bonne reponse (ecrit/oral)."
+        },
+        "zoom": {
+            "nom": "Lunette Zoom",
+            "rarete": "Commun",
+            "description": "Permet de copier sur le camarade en vision."
+        },
+        "oreillette": {
+            "nom": "Oreillette",
+            "rarete": "Commun",
+            "description": "Permet d’obtenir l’aide exterieure d’une tiers personne."
+        },
+        "telephone": {
+            "nom": "Telephone",
+            "rarete": "Commun",
+            "description": "Lancer de piece, si le resultat est pile, le joueur reussit a regarder sans problemes sur son telephone la reponse, si face, il se fait chopper par le prof et obtiens la note de 0."
+        },
+        "chemise": {
+            "nom": "Chemise / Cravate",
+            "rarete": "Legendaire",
+            "description": "Permet d’obtenir la note maximale a un exam oral."
+        },
+        "stylo": {
+            "nom": "Stylo Magique",
+            "rarete": "Legendaire",
+            "description": "Permet d’obtenir la note maximale a un exam ecrit."
+        }
+    },
+    
+    "sorts": {
+        "pasnon": {
+            "nom": "Un non c’est pas un non",
+            "description": "Permet de rallier a sa cause une personne d’avis contraire malgre la validite de nos propos ou point de vue."
+        },
+        "merveilleux": {
+            "nom": "Madame/Monsieur z’etes merveilleux",
+            "description": "Permet de rentrer dans les bonnes graces du professeur et d’acceder a des infos secretes."
+        },
+        "retard": {
+            "nom": "J’ai de l’avance sur mon retard ",
+            "description": "Permet a l’eleve d’enlever sa penalite du a son retard."
+        },
+        "greves": {
+            "nom": "Excusez moi, y a des greves !",
+            "description": "Permet de repousser un examen ou d’etre utilise comme pretexte d’absence."
+        }
+    }
+}
